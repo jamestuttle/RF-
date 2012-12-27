@@ -6,3 +6,5 @@ RF-
 - Scripts for Naurtech CK3s
 
 - License for Naurtech by location
+
+- Validate access for ThomasV
