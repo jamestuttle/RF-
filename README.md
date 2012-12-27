@@ -1,9 +1,8 @@
 RF-
 ===
 
-Backups of the RegEdits for the RF Guns
+- Backups of the RegEdits for the RF Guns
 
-The files are also located at: S:\Departmental Data\Information Technology\Hardware\Scanners\CK3\Naurtech\RegEdit
+- Scripts for Naurtech CK3s
 
-
-James T
+- License for Naurtech by location
