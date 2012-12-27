@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<!-- Naurtech Corporation License Registration file -->
+<!-- *************************************************************************** -->
+<!-- These license keys are covered by the Naurtech End User License Agreement and  -->
+<!-- are subject to applicable US and International copyright and software piracy  -->
+<!-- laws. Any violation or illegal use will be prosecuted. If you have any questions  -->
+<!-- about your rights to use these license registration keys, please contact Naurtech -->
+<!-- Corporation via e-mail at orders@naurtech.com or via the web at www.naurtech.com -->
+<!-- This file contains CONFDENTIAL license keys. IT MAY NOT BE EXPOSED ON THE PUBLIC INTERNET.   -->
+<!-- *************************************************************************** -->
+<!-- End Customer name :            T & A Supply -->
+<!-- Registration keys for Product: [NAU-1500] CETerm for Windows Mobile 6.0 / 5.0 / WM 2003 -->
+<!-- Keys for Version:              5.5       -->
+<!-- Naurtech Corporation order#:   7681  Date: 4/10/2009 -->
+<!-- Total keys in this file:       4 -->
+<!-- *************************************************************************** -->
+<!-- For automated licensing details, please refer to the this knowledgabase -->
+<!-- article on our website:  http://www.naurtech.com/kb/kb1140.htm -->
+<!-- *************************************************************************** -->
+
+<!-- Configure/Options/Advanced/Manage/ "Paste this in" ===> file:///Flash File Store/license.xml -->
+
+
+<CETerm>
+<license>
+<id>036210858063</id>
+<user>T A SUPPLY</user>
+<key>2446353UKHW3Z69RF5UV2ABVJLJGJTF8</key>
+</license>
+
+<license>
+<id>036210858049</id>
+<user>T A SUPPLY</user>
+<key>244TAKWVJQYCS8UZF5UV2ABVJLJGKBS8</key>
+</license>
+
+<license>
+<id>036210858415</id>
+<user>T A SUPPLY</user>
+<key>244UZDJCQPBKLYV8F5UV2ABVJLJGK5NU</key>
+</license>
+
+<license>
+<id>036210858421</id>
+<user>T A SUPPLY</user>
+<key>2449Z7MJ93EPV9QEF5UV2ABVJLJGJGPU</key>
+</license>
+
+</CETerm>
+
